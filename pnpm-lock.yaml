@@ -46,7 +46,13 @@ importers:
         specifier: ^4.4.5
         version: 4.4.5
 
-  packages/framework: {}
+  packages/core: {}
+
+  packages/framework:
+    dependencies:
+      '@building-blocks-demo/core':
+        specifier: workspace:^
+        version: link:../core
 
   packages/playground:
     dependencies:

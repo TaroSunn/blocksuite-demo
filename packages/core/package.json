@@ -1,5 +1,5 @@
 {
-  "name": "@building-blocks-demo/framework",
+  "name": "@building-blocks-demo/core",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@building-blocks-demo/core": "workspace:^"
-  }
+  "license": "ISC"
 }
