@@ -10,6 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@building-blocks-demo/framework": "workspace:^"
+    "@building-blocks-demo/blocks": "workspace:^"
   }
 }
