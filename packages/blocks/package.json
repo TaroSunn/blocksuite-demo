@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@building-blocks-demo/core": "workspace:^"
+    "@building-blocks-demo/core": "workspace:^",
+    "lit": "^2.8.0"
   }
 }
